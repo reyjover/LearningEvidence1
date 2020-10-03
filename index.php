@@ -104,7 +104,7 @@
                                     </div> 
                                 </div> </a> 
 
-                                <a href="#"> <div class="socialcontainer"> 
+                                <a href="https://github.com/reyjover/LearningEvidence1" target="blank"> <div class="socialcontainer"> 
                                         <div class="logo-github-small">
                                             <div class="ear-one-left"></div>
                                             <div class="ear-one-none"></div>
