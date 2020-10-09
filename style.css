@@ -21,6 +21,7 @@ body {
     }
 }
 .headwrapper {
+  text-align: center;
     margin: 0 auto;
     width: 1366px;
     height: auto;
@@ -45,12 +46,11 @@ body {
  }
 .header-left{
     margin-left: 20px;
-    margin-top: 20px;
+    margin-top: 50px;
     display: inline-flex;
     text-align: center;
     width: 900px;
     height: 150px;
-    float: left;
 }
 .logo {
     width: 150px;
@@ -85,6 +85,9 @@ body {
     -moz-background-clip: text;
     -moz-text-fill-color: transparent;
     filter: drop-shadow(2px 2px #000);
+    position: relative;
+    background-size: 400% 400%;
+    animation: gradient 8s ease-in-out infinite;
   }
 
   
