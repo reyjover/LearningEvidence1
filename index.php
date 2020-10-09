@@ -15,13 +15,6 @@
                                     </div>
 
                                     <div class="header-right">
-                                        <div class="nav"> 
-                                            <a class="navhover" href="#"> HOME </a> 
-                                            <a class="navhover" href="#"> ABOUT  </a>
-                                            <a class="navhover" href="#"> GODS  </a>
-                                            <a class="navhover" href="#"> DEMIGODS </a> 
-                                            <a class="navhover" href="#"> OLYMPIANS </a> 
-                                        </div>
                                     </div>
                                 </div>
                      
@@ -104,7 +97,7 @@
                                     </div> 
                                 </div> </a> 
 
-                                <a href="https://github.com/reyjover/LearningEvidence1" target="blank"> <div class="socialcontainer"> 
+                                <a href="#"> <div class="socialcontainer"> 
                                         <div class="logo-github-small">
                                             <div class="ear-one-left"></div>
                                             <div class="ear-one-none"></div>
